@@ -116,21 +116,6 @@ Focus marketing efforts on customers with high purchasing power through premium 
 
 ---
 
-## Project Structure
-
-```text
-Customer-Segmentation-Analysis/
-│
-├── Customer_Segmentation_Analysis.ipynb
-├── Cleaned_Shopping_Mall.csv
-├── PowerBI_Dashboard.pbix
-├── Customer_Segmentation_Report.pdf
-├── Dashboard_Screenshot.png
-└── README.md
-```
-
----
-
 ## Conclusion
 
 This project demonstrates how customer segmentation can be used to understand customer behavior, improve marketing effectiveness, and support strategic business decision-making through data analysis and visualization.
